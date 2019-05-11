@@ -44,7 +44,8 @@ for i in range(3):
     print("Comp:",computer)
     
     # Ako je odgovor jednak kompu onda poen dobivaju i igrac i komp.
-    if odgovor==computer:
+    if odgovor==computer: znaaaaasssss
+        
         comp+=1
         player+=1
         print("""=====================
